@@ -6,8 +6,8 @@ import (
 )
 
 const (
-	OpenaiAPIURLv1       = "https://api.openai.com/v1"
-	RayEndpointsAPIURLv1 = "https://api.endpoints.anyscale.com/v1"
+	OpenaiAPIURLv1            = "https://api.openai.com/v1"
+	AnyscaleEndpointsAPIURLv1 = "https://api.endpoints.anyscale.com/v1"
 
 	defaultEmptyMessagesLimit uint = 300
 
