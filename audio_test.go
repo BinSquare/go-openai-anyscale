@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/sashabaranov/go-openai/internal/test"
-	"github.com/sashabaranov/go-openai/internal/test/checks"
+	"github.com/binsquare/go-openai-anyscale/internal/test"
+	"github.com/binsquare/go-openai-anyscale/internal/test/checks"
 )
 
 func TestAudioWithFailingFormBuilder(t *testing.T) {

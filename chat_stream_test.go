@@ -10,8 +10,8 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/sashabaranov/go-openai"
-	"github.com/sashabaranov/go-openai/internal/test/checks"
+	"github.com/binsquare/go-openai-anyscale"
+	"github.com/binsquare/go-openai-anyscale/internal/test/checks"
 )
 
 func TestChatCompletionsStreamWrongModel(t *testing.T) {
