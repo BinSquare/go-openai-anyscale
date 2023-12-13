@@ -57,8 +57,9 @@ const (
 	GPT3Babbage           = "babbage"
 	GPT3Babbage002        = "babbage-002"
 
-	LLAMA2DOT70B         = "meta-llama/Llama-2-70b-chat-hf"
-	MISTRALInstructDOT7B = "mistralai/Mistral-7B-Instruct-v0.1"
+	LLAMA2DOT70B              = "meta-llama/Llama-2-70b-chat-hf"
+	MISTRALInstructDOT7B      = "mistralai/Mistral-7B-Instruct-v0.1"
+	OPENORCAMistralOpenOrca7B = "Open-Orca/Mistral-7B-OpenOrca"
 )
 
 // Codex Defines the models provided by OpenAI.
