@@ -61,6 +61,7 @@ const (
 	GPT3Babbage002        = "babbage-002"
 
 	LLAMA2DOT70B              = "meta-llama/Llama-2-70b-chat-hf"
+	CODELLAMA70B              = "codellama/CodeLlama-70b-Instruct-hf"
 	MISTRALInstructDOT7B      = "mistralai/Mistral-7B-Instruct-v0.1"
 	MIXTRALInstructDOT8x7B    = "mistralai/Mixtral-8x7B-Instruct-v0.1"
 	OPENORCAMistralOpenOrca7B = "Open-Orca/Mistral-7B-OpenOrca"
